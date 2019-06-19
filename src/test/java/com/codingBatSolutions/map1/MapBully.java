@@ -18,7 +18,5 @@ mapBully({"a": "candy", "b": "carrot", "c": "meh"}) → {"a": "", "b": "candy", 
         return map;
     }
 
-    public static void main(String[] args) {
-
-    }
+  
 }
